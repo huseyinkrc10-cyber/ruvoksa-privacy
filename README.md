@@ -5,7 +5,7 @@ Official privacy notice for the Android game **RUVOKSA** (`com.ruvoksa.game`).
 - [Türkçe gizlilik politikası](index.html)
 - [English privacy policy](en/index.html)
 
-**Current status (3 November 2026):** Privacy contact: `kivobrix.support@gmail.com`. The current closed-test Release build is reported to have live ad serving disabled, while a Debug build has opt-in Google demo advertising support. Before Google Play publication, packaged SDKs, their actual data processing, audience safeguards, permissions and Google Play Data safety answers must be checked against the actual Release artifact.
+**Current status (26 November 2026):** RUVOKSA Android 1.0.5 (versionCode 9) includes live Google AdMob advertising: optional rewarded ads for continuing a run, gold and bonus gifts, and occasional interstitial ads after runs. The Turkish and English notices describe the advertising SDK's data processing and privacy choices. Privacy contact: `kivobrix.support@gmail.com`. Google Play Data safety declarations and the actual release configuration must be kept consistent with the notice.
 
 **GitHub Pages:** To publish these HTML files as a public website, enable Pages from the `main` branch and root folder in the repository settings.
 
